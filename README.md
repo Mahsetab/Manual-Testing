@@ -1,1 +1,1 @@
-# Manual-Testing
+The SecureBank Test Case Writing Project focuses on documenting and structuring test cases for SecureBank’s software system. This includes functional, non-functional, security, and performance testing to ensure reliability, compliance, and optimal user experience. The test cases outline input conditions, expected results, and execution steps to validate system behavior. The project aims to enhance quality assurance, identify potential vulnerabilities, and ensure seamless banking operations.
