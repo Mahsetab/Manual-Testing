@@ -1,5 +1,5 @@
 
-SecureBank Manual Testing Summary
+ SecureBank Manual Testing Summary
 
 Overview:
 
